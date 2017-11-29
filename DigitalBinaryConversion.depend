@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508332378 source:d:\computer programming\lab exercises\6. binary decimal conversion\digitalbinaryconversion\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
